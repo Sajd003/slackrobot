@@ -17,7 +17,7 @@ gem 'mongoid', '~> 5.0.2'
 gem 'fantastic_robot', '~> 0.1.2'
 
 # Bootstrap and FontAwesome
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'font-awesome-sass', '~> 4.5.0'
 
 # Use jquery as the JavaScript library
